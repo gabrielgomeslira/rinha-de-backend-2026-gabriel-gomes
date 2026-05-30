@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="vector.VectorizerTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2026-05-30T21:27:46.296Z" hostname="GABRIEL-PC" time="0.03">
+  <properties/>
+  <testcase name="exemploFraude()" classname="vector.VectorizerTest" time="0.019"/>
+  <testcase name="exemploLegitimo()" classname="vector.VectorizerTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

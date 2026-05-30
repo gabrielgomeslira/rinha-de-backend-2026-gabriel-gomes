@@ -4,7 +4,35 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="55f5a9dc-f4ad-4ee1-a962-92e1f7679dd5" name="Changes" comment="" />
+    <list default="true" id="55f5a9dc-f4ad-4ee1-a962-92e1f7679dd5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/rinha/src/main/java/gabriel/dev/model/Payload.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rinha/src/main/java/gabriel/dev/vector/MccRisk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rinha/src/main/java/gabriel/dev/vector/Normalization.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rinha/src/main/java/gabriel/dev/vector/Vectorizer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rinha/src/test/java/vector/VectorizerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rinha.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rinha/.gradle/9.3.0/checksums/checksums.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rinha/.gradle/9.3.0/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rinha/.gradle/9.3.0/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rinha/.gradle/9.3.0/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rinha/.gradle/9.3.0/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rinha/.gradle/9.3.0/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rinha/.gradle/9.3.0/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rinha/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rinha/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rinha/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rinha/.gradle/file-system.probe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rinha/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rinha/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rinha/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rinha/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rinha/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rinha/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rinha/settings.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rinha/src/main/java/org/example/Main.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,6 +60,13 @@
       </state>
     </system>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -40,18 +75,24 @@
   &quot;fromUser&quot;: false
 }</component>
   <component name="ProjectId" id="3E8k5GM3W3sLdyJP9NDwzUgpAwj" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "dev",
     "ignore.virus.scanning.warn.message": "true",
     "junie.onboarding.icon.badge.shown": "true",
     "kotlin-language-version-configured": "true",
@@ -60,7 +101,10 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/Gabriel Gomes/Desktop/repos/rinha-de-backend-2026-gabriel-gomes/rinha/src/main/java/org/example/Main.java",
+    "onboarding.tips.debug.path": "C:/Users/Gabriel Gomes/Desktop/repos/rinha-de-backend-2026-gabriel-gomes/rinha/src/main/java/gabriel/dev/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
     "settings.editor.selected.configurable": "discord-application",
     "to.speed.mode.migration.done": "true",
     "vue.rearranger.settings.migration": "true"
@@ -82,7 +126,7 @@
       <option name="presentableId" value="Default" />
       <updated>1779567399131</updated>
       <workItem from="1779567400613" duration="707000" />
-      <workItem from="1780173898016" duration="914000" />
+      <workItem from="1780173898016" duration="2256000" />
     </task>
     <servers />
   </component>
