@@ -1,6 +1,6 @@
 services:
   api1:
-    image: gabrielgomeslira/rinha-fraud-2026:latest
+    image: gabrielgomeslira/rinha-2026-fraud-java:latest
     networks: [app]
     deploy:
       resources:
@@ -9,7 +9,7 @@ services:
           memory: "163MB"
 
   api2:
-    image: gabrielgomeslira/rinha-fraud-2026:latest
+    image: gabrielgomeslira/rinha-2026-fraud-java:latest
     networks: [app]
     deploy:
       resources:
