@@ -11,7 +11,7 @@
 .idea/**/usage.statistics.xml
 .idea/**/dictionaries
 .idea/**/shelf
-
+.*
 # AWS User-specific
 .idea/**/aws.xml
 
@@ -168,3 +168,9 @@ gradle-app.setting
 *.hprof
 
 # End of https://www.toptal.com/developers/gitignore/api/java,intellij,gradle
+
+### Rinha ###
+# Large reference dataset (~48MB). Needed only at local `docker build` time, not by
+# the test engine (which pulls the public image). Copy it from the official challenge
+# repo into rinha/resources/ before building.
+rinha/resources/references.json.gz
